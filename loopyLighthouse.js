@@ -8,5 +8,7 @@ for (let x = 100; x < 201; x++) {
     console.log("LoopyLighthouse");
   } else if (x % 3 === 0) {
     console.log(x);
+  } else {
+    console.log(x)
   }
 }
